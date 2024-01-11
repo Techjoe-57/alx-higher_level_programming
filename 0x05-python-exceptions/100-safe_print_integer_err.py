@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 import sys
+
+
 def safe_print_integer_err(value):
     try:
         # Will only print if the datatype of 'value' is int
